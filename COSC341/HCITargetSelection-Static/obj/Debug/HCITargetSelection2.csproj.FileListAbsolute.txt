@@ -1,0 +1,13 @@
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection2\HCITargetSelection\bin\Debug\HCITargetSelection.exe.config
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection2\HCITargetSelection\obj\Debug\HCITargetSelection.exe
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection2\HCITargetSelection\obj\Debug\HCITargetSelection.pdb
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection2\HCITargetSelection\bin\Debug\HCITargetSelection.exe
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection2\HCITargetSelection\bin\Debug\HCITargetSelection.pdb
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection2\HCITargetSelection\obj\Debug\HCITargetSelection2.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection2\HCITargetSelection\obj\Debug\MainWindow.baml
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection2\HCITargetSelection\obj\Debug\MainWindow.g.cs
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection2\HCITargetSelection\obj\Debug\App.g.cs
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection2\HCITargetSelection\obj\Debug\HCITargetSelection_MarkupCompile.cache
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection2\HCITargetSelection\obj\Debug\HCITargetSelection.g.resources
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection2\HCITargetSelection\obj\Debug\HCITargetSelection.Properties.Resources.resources
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection2\HCITargetSelection\obj\Debug\HCITargetSelection2.csproj.GenerateResource.Cache

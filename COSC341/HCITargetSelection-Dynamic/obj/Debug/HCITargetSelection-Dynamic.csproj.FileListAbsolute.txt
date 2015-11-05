@@ -1,0 +1,13 @@
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Dynamic\bin\Debug\HCITargetSelection-Dynamic.exe.config
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Dynamic\bin\Debug\HCITargetSelection-Dynamic.exe
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Dynamic\bin\Debug\HCITargetSelection-Dynamic.pdb
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Dynamic\obj\Debug\HCITargetSelection-Dynamic.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Dynamic\obj\Debug\MainWindow.baml
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Dynamic\obj\Debug\MainWindow.g.cs
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Dynamic\obj\Debug\App.g.cs
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Dynamic\obj\Debug\HCITargetSelection-Dynamic_MarkupCompile.cache
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Dynamic\obj\Debug\HCITargetSelection-Dynamic.g.resources
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Dynamic\obj\Debug\HCITargetSelection.Properties.Resources.resources
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Dynamic\obj\Debug\HCITargetSelection-Dynamic.csproj.GenerateResource.Cache
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Dynamic\obj\Debug\HCITargetSelection-Dynamic.exe
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Dynamic\obj\Debug\HCITargetSelection-Dynamic.pdb

@@ -1,0 +1,13 @@
+C:\Users\James\Documents\Visual Studio 2013\Projects\HCITargetSelection\HCITargetSelection\bin\Release\HCITargetSelection.exe.config
+C:\Users\James\Documents\Visual Studio 2013\Projects\HCITargetSelection\HCITargetSelection\bin\Release\HCITargetSelection.exe
+C:\Users\James\Documents\Visual Studio 2013\Projects\HCITargetSelection\HCITargetSelection\bin\Release\HCITargetSelection.pdb
+C:\Users\James\Documents\Visual Studio 2013\Projects\HCITargetSelection\HCITargetSelection\obj\Release\MainWindow.baml
+C:\Users\James\Documents\Visual Studio 2013\Projects\HCITargetSelection\HCITargetSelection\obj\Release\MainWindow.g.cs
+C:\Users\James\Documents\Visual Studio 2013\Projects\HCITargetSelection\HCITargetSelection\obj\Release\App.g.cs
+C:\Users\James\Documents\Visual Studio 2013\Projects\HCITargetSelection\HCITargetSelection\obj\Release\HCITargetSelection_MarkupCompile.cache
+C:\Users\James\Documents\Visual Studio 2013\Projects\HCITargetSelection\HCITargetSelection\obj\Release\HCITargetSelection.g.resources
+C:\Users\James\Documents\Visual Studio 2013\Projects\HCITargetSelection\HCITargetSelection\obj\Release\HCITargetSelection.Properties.Resources.resources
+C:\Users\James\Documents\Visual Studio 2013\Projects\HCITargetSelection\HCITargetSelection\obj\Release\HCITargetSelection.csproj.GenerateResource.Cache
+C:\Users\James\Documents\Visual Studio 2013\Projects\HCITargetSelection\HCITargetSelection\obj\Release\HCITargetSelection.exe
+C:\Users\James\Documents\Visual Studio 2013\Projects\HCITargetSelection\HCITargetSelection\obj\Release\HCITargetSelection.pdb
+C:\Users\James\documents\visual studio 2013\Projects\HCITargetSelection\HCITargetSelection\obj\Release\HCITargetSelection.csprojResolveAssemblyReference.cache

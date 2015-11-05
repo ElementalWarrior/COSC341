@@ -1,0 +1,12 @@
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Static\bin\Debug\HCITargetSelection-Static.exe.config
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Static\bin\Debug\HCITargetSelection-Static.exe
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Static\bin\Debug\HCITargetSelection-Static.pdb
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Static\obj\Debug\MainWindow.baml
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Static\obj\Debug\MainWindow.g.cs
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Static\obj\Debug\App.g.cs
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Static\obj\Debug\HCITargetSelection-Static_MarkupCompile.cache
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Static\obj\Debug\HCITargetSelection-Static.g.resources
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Static\obj\Debug\HCITargetSelection.Properties.Resources.resources
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Static\obj\Debug\HCITargetSelection-Static.csproj.GenerateResource.Cache
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Static\obj\Debug\HCITargetSelection-Static.exe
+C:\Users\James\Downloads\COSC341\COSC341\HCITargetSelection-Static\obj\Debug\HCITargetSelection-Static.pdb

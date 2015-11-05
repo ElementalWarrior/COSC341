@@ -1,0 +1,76 @@
+﻿<Window x:Class="CircleMenu_CircleMenu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="COSC341 - CircleMenu_CircleMenu" Height="720" Width="1280">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <TextBlock x:Key="eraser" Cursor="eraser.ani"/>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid Name="canvas">
+        <InkCanvas x:Name="inkCanvas" Background="White" Cursor="Arrow" Canvas.Left="0" Canvas.Top="0" Width="1280" Height="720" UseCustomCursor="True" EditingMode="None"/>
+        <TextBlock Width="340" VerticalAlignment="Top" HorizontalAlignment="Center" Background="White" TextWrapping="Wrap">
+            <TextBlock.Text>
+                A right click will open the context menu. Press submit when you are finished each drawing.
+            </TextBlock.Text>
+        </TextBlock>
+        <TextBlock Name="instructions" VerticalAlignment="Top" HorizontalAlignment="Center" Text="Draw a red cricle" Background="White" Margin="0,40,0,0"/>
+        <Grid Name="circle_menu" Width="200" Height="200" Panel.ZIndex="1" Visibility="Hidden" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Ellipse Name="outer_circle" Width="200" Height="200" HorizontalAlignment="Center" VerticalAlignment="Center" Stroke="Black" Fill="White"/>
+
+            <Line X1="100" Y1="100" X2="158.78" Y2="19.10" Stroke="Black"/>
+            <Line X1="100" Y1="100" X2="41.22" Y2="19.10" Stroke="Black"/>
+            <Line X1="100" Y1="100" X2="4.89" Y2="130.90" Stroke="Black"/>
+            <Line X1="100" Y1="100" X2="100" Y2="200" Stroke="Black"/>
+            <Line X1="100" Y1="100" X2="195.11" Y2="130.90" Stroke="Black"/>
+            <!-- 100cos(72+54)+100 100-100sin(72+54)  -->
+
+            <Ellipse Width="48" Height="48" HorizontalAlignment="Center" VerticalAlignment="Center" Stroke="Black" Fill="White"/>
+
+            <Button Name="draw_button" Width="52" Height="52" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,11,0,0" Background="{x:Null}" BorderBrush="{x:Null}">
+                <Image Source="draw.png"/>
+            </Button>
+            <Button Name="erase_button" Width="52" Height="52" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,11,0,0" Background="{x:Null}" BorderBrush="{x:Null}">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <RotateTransform Angle="72" CenterX="26" CenterY="26"/>
+                        <RotateTransform Angle="-72" CenterX="26" CenterY="88"/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+                <Image Source="erase.png"/>
+            </Button>
+            <Button Name="red_button" Width="52" Height="52" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,11,0,0" Background="{x:Null}" BorderBrush="{x:Null}">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <RotateTransform Angle="144" CenterX="26" CenterY="26"/>
+                        <RotateTransform Angle="-144" CenterX="26" CenterY="88"/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+                <Image Source="red.png"/>
+            </Button>
+            <Button Name="blue_button" Width="52" Height="52" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,11,0,0" Background="{x:Null}" BorderBrush="{x:Null}">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <RotateTransform Angle="216" CenterX="26" CenterY="26"/>
+                        <RotateTransform Angle="-216" CenterX="26" CenterY="88"/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+                <Image Source="blue.png"/>
+            </Button>
+            <Button Name="black_button" Width="52" Height="52" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,11,0,0" Background="{x:Null}" BorderBrush="{x:Null}">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <RotateTransform Angle="288" CenterX="26" CenterY="26"/>
+                        <RotateTransform Angle="-288" CenterX="26" CenterY="88"/>
+                        <!-- 26.5 + 38 + 24 -->
+                    </TransformGroup>
+                </Button.RenderTransform>
+                <Image Source="black.png"/>
+            </Button>
+        </Grid>
+
+        <Button Name="submit_button" Width="100" Height="50" HorizontalAlignment="Center" VerticalAlignment="Bottom" Content="Submit" Margin="0,0,0,0" TextBlock.FontSize="18"/>
+    </Grid>
+</Window>

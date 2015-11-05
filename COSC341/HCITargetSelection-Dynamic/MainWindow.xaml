@@ -1,0 +1,32 @@
+﻿<Window x:Class="HCITargetSelection.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="525" Width="525" MinHeight="525" MinWidth="525" Loaded="Window_Loaded"
+        MouseUp="Window_MouseUp"
+        MouseMove="Window_MouseMove"
+        >
+    <Decorator Name="deco">
+        <Grid>
+            <Image Source="images/white.jpg"    Cursor="Hand" MouseUp="Image_MouseUp" Stretch="None" Width="50" Height="50" VerticalAlignment="Center" HorizontalAlignment="Left" />
+            <Canvas Name="imgParent" VerticalAlignment="Center" HorizontalAlignment="Right" Height="500" Width="50" Panel.ZIndex="1">
+                <Image Name="btn_1"     Cursor="Hand" Stretch="Uniform" Source="images/btn_1.jpg"   MouseUp="Image_MouseUp" Width="50" Height="50" Margin="0 0 0 0"/>
+                <Image Name="btn_2"     Cursor="Hand" Stretch="Uniform" Source="images/btn_2.jpg"   MouseUp="Image_MouseUp" Width="50" Height="50" Margin="0 50 0 0"/>
+                <Image Name="btn_3"     Cursor="Hand" Stretch="Uniform" Source="images/btn_3.jpg"   MouseUp="Image_MouseUp" Width="50" Height="50" Margin="0 100 0 0"/>
+                <Image Name="btn_4"     Cursor="Hand" Stretch="Uniform" Source="images/btn_4.jpg"   MouseUp="Image_MouseUp" Width="50" Height="50" Margin="0 150 0 0"/>
+                <Image Name="btn_5"     Cursor="Hand" Stretch="Uniform" Source="images/btn_5.jpg"   MouseUp="Image_MouseUp" Width="50" Height="50" Margin="0 200 0 0"/>
+                <Image Name="btn_6"     Cursor="Hand" Stretch="Uniform" Source="images/btn_6.jpg"   MouseUp="Image_MouseUp" Width="50" Height="50" Margin="0 250 0 0"/>
+                <Image Name="btn_7"     Cursor="Hand" Stretch="Uniform" Source="images/btn_7.jpg"   MouseUp="Image_MouseUp" Width="50" Height="50" Margin="0 300 0 0"/>
+                <Image Name="btn_8"     Cursor="Hand" Stretch="Uniform" Source="images/btn_8.jpg"   MouseUp="Image_MouseUp" Width="50" Height="50" Margin="0 350 0 0"/>
+                <Image Name="btn_9"     Cursor="Hand" Stretch="Uniform" Source="images/btn_9.jpg"   MouseUp="Image_MouseUp" Width="50" Height="50" Margin="0 400 0 0"/>
+                <Image Name="btn_10"    Cursor="Hand" Stretch="Uniform" Source="images/btn_10.jpg"  MouseUp="Image_MouseUp" Width="50" Height="50" Margin="0 450 0 0"/>
+            </Canvas>
+            <Grid Width="200" Height="130" VerticalAlignment="Top" HorizontalAlignment="Center" Visibility="Visible">
+                <TextBlock FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Top">Click On</TextBlock>
+                <Image Cursor="No" Source="images/transparent.png" Name="target" HorizontalAlignment="Center" Margin="0 40 0 0" VerticalAlignment="Top" Width="50" Height="50" />
+                <TextBlock FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0 95 0 0">as fast as possible...</TextBlock>
+            </Grid>
+            <TextBlock Name="counter" FontSize="20" HorizontalAlignment="Center" Margin="0 0 0 20" VerticalAlignment="Bottom">You have performed 0/50 selections.</TextBlock>
+            <TextBlock Name="start" HorizontalAlignment="Center" Margin="80 0" TextAlignment="Center" VerticalAlignment="Center" TextWrapping="WrapWithOverflow"  FontSize="70" Panel.ZIndex="0">&lt; Start</TextBlock>
+        </Grid>
+    </Decorator>
+</Window>

@@ -1,0 +1,13 @@
+C:\Users\James\Downloads\COSC341\COSC341\CircleMenu_CircleMenu\bin\Debug\CircleMenu_CircleMenu.exe.config
+C:\Users\James\Downloads\COSC341\COSC341\CircleMenu_CircleMenu\bin\Debug\CircleMenu_CircleMenu.exe
+C:\Users\James\Downloads\COSC341\COSC341\CircleMenu_CircleMenu\bin\Debug\CircleMenu_CircleMenu.pdb
+C:\Users\James\Downloads\COSC341\COSC341\CircleMenu_CircleMenu\obj\Debug\CircleMenu_CircleMenu.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\COSC341\COSC341\CircleMenu_CircleMenu\obj\Debug\MainWindow.baml
+C:\Users\James\Downloads\COSC341\COSC341\CircleMenu_CircleMenu\obj\Debug\MainWindow.g.cs
+C:\Users\James\Downloads\COSC341\COSC341\CircleMenu_CircleMenu\obj\Debug\App.g.cs
+C:\Users\James\Downloads\COSC341\COSC341\CircleMenu_CircleMenu\obj\Debug\CircleMenu_CircleMenu_MarkupCompile.cache
+C:\Users\James\Downloads\COSC341\COSC341\CircleMenu_CircleMenu\obj\Debug\CircleMenu_CircleMenu.g.resources
+C:\Users\James\Downloads\COSC341\COSC341\CircleMenu_CircleMenu\obj\Debug\CircleMenu_CircleMenu.Properties.Resources.resources
+C:\Users\James\Downloads\COSC341\COSC341\CircleMenu_CircleMenu\obj\Debug\CircleMenu_CircleMenu.csproj.GenerateResource.Cache
+C:\Users\James\Downloads\COSC341\COSC341\CircleMenu_CircleMenu\obj\Debug\CircleMenu_CircleMenu.exe
+C:\Users\James\Downloads\COSC341\COSC341\CircleMenu_CircleMenu\obj\Debug\CircleMenu_CircleMenu.pdb

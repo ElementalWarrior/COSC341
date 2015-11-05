@@ -1,0 +1,13 @@
+C:\Users\James\Downloads\COSC341\COSC341\VisualOcclusion1\bin\Debug\VisualOcclusion1.exe.config
+C:\Users\James\Downloads\COSC341\COSC341\VisualOcclusion1\bin\Debug\VisualOcclusion1.exe
+C:\Users\James\Downloads\COSC341\COSC341\VisualOcclusion1\bin\Debug\VisualOcclusion1.pdb
+C:\Users\James\Downloads\COSC341\COSC341\VisualOcclusion1\obj\Debug\VisualOcclusion1.csprojResolveAssemblyReference.cache
+C:\Users\James\Downloads\COSC341\COSC341\VisualOcclusion1\obj\Debug\MainWindow.baml
+C:\Users\James\Downloads\COSC341\COSC341\VisualOcclusion1\obj\Debug\MainWindow.g.cs
+C:\Users\James\Downloads\COSC341\COSC341\VisualOcclusion1\obj\Debug\App.g.cs
+C:\Users\James\Downloads\COSC341\COSC341\VisualOcclusion1\obj\Debug\VisualOcclusion1_MarkupCompile.cache
+C:\Users\James\Downloads\COSC341\COSC341\VisualOcclusion1\obj\Debug\VisualOcclusion1.g.resources
+C:\Users\James\Downloads\COSC341\COSC341\VisualOcclusion1\obj\Debug\VisualOcclusion1.Properties.Resources.resources
+C:\Users\James\Downloads\COSC341\COSC341\VisualOcclusion1\obj\Debug\VisualOcclusion1.csproj.GenerateResource.Cache
+C:\Users\James\Downloads\COSC341\COSC341\VisualOcclusion1\obj\Debug\VisualOcclusion1.exe
+C:\Users\James\Downloads\COSC341\COSC341\VisualOcclusion1\obj\Debug\VisualOcclusion1.pdb
